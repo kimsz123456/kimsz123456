@@ -1,12 +1,6 @@
 ## 👋 About Me
 안녕하세요! 백엔드 개발자 김지승입니다.
 
-## 📊 GitHub Statistics
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kimsz123456&show_icons=true&theme=radical)
-
-## 🏆 BOJ (Baekjoon Online Judge)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_sz456)](https://solved.ac/kim_sz456/)
-
 ## 💼 Experience
 - **2024.07 ~ 현재**: 삼성 청년 SW 아카데미(SSAFY) 12기
 - **2023.11 ~ 2024.04**: 멀티캠퍼스 데이터 분석 & 엔지니어 캠프 수료
@@ -30,3 +24,9 @@
 
 ### Collaboration Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-EF1970?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/MatterMOST-009688?style=for-the-badge&logo=Mattermost&logoColor=white">
+
+## 📊 GitHub Statistics
+![GitHub 통계](https://github-readme-stats.vercel.app/api?username=kimsz123456&show_icons=true&theme=radical)
+
+## 🏆 BOJ (Baekjoon Online Judge)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_sz456)](https://solved.ac/kim_sz456/)
