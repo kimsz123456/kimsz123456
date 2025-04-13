@@ -1,3 +1,5 @@
+
+
 ## 👋 About Me
 안녕하세요! 백엔드 개발자 김지승입니다.
 
@@ -7,6 +9,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python&theme=light)](https://skillicons.dev) <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -40,3 +44,5 @@
 
 ## 🏆 BOJ (Baekjoon Online Judge)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_sz456)](https://solved.ac/kim_sz456/)
+
+</div>
